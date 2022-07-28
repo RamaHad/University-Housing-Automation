@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model IEnumerable<OurProject.Dto.UserDto.GetAllUserDto>
+
+<table class="table">
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>@item.UserId</td>
+        <td>@item.Name</td>
+        <td>@item.Password</td>
+        <td>@item.PhoneNumber</td>
+        <td>@item.RoleId</td>
+        <td>@item.RoleName</td>
+
+
+
+
+    </tr>
+    }
+</table>

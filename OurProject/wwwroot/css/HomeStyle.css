@@ -1,0 +1,178 @@
+﻿/*hero section*/
+.hero {
+    background: url(../img/hero-bg.jpg) top center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    display: table;
+}
+
+.hero-container {
+    display: table-cell;
+    background: rgba(0, 0, 0, 0.8);
+    margin: 0;
+    padding: 0;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.btn-login {
+    background: #03C4EB;
+    border: 2px solid #03C4EB;
+    color: #fff;
+}
+
+    .btn-login:hover {
+        background: none;
+        border: 2px solid #fff;
+        color: #fff;
+    }
+
+.btn-student {
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+    .btn-student:hover {
+        background: #03C4EB;
+        border: 2px solid #03C4EB;
+        color: #fff;
+    }
+
+/*end hero section*/
+
+
+/*user section*/
+.user {
+    background: #f7f7f7;
+    padding: 30px;
+}
+
+.section-titel {
+    font-size: 32px;
+    color: #111;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+}
+
+
+.form-parent {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction:column;
+    background-color: #69696933;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    color: #080303bd;
+    border-radius: 150px 0;
+    box-shadow: 13px 10px 30px cadetblue;
+    padding: 20px;
+}
+
+form {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+.div-in-form {
+    padding: 10px;
+}
+
+/*end user section*/
+
+
+/*Media Quiery*/
+/* Small */
+@media (min-width: 768px) {
+}
+
+/* Medium */
+@media (min-width: 992px) {
+    .hero {
+        background-attachment: fixed;
+    }
+}
+
+/* Large */
+@media (min-width: 1200px) {
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #fff;
+    color: #666666;
+    font-family: "Open Sans", sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #01bbe0;
+    transition: 0.5s;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 20px;
+    border-radius: 2px;
+    margin: 10px;
+}
+
+    a:hover,
+    a:active,
+    a:focus {
+        color: #03c5ec;
+        outline: none;
+        text-decoration: none;
+    }
+
+h1 {
+    margin: 30px 0 10px 0;
+    font-weight: 700;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+h2 {
+    font-weight: 400;
+    padding: 0;
+    color: #ccc;
+    margin-bottom: 50px;
+    font-size: 24px;
+    line-height: 26px;
+}
+
+input {
+    margin-top: 10px;
+    width: 50%;
+    height: 35px;
+    border: 1px solid #666666;
+}
+
+
+button {
+    background: #03C4EB;
+    border: 0;
+    padding: 10px 24px;
+    color: #fff;
+    transition: 0.4s;
+    width: 150px;
+    font-size: 20px;
+}
+
+    button:hover {
+        background: cadetblue
+    }

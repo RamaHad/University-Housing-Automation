@@ -1,0 +1,355 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject\\OurProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\DataBase\\DataBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\DataBase\\DataBase.csproj",
+        "projectName": "DataBase",
+        "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\DataBase\\DataBase.csproj",
+        "packagesPath": "C:\\Users\\العبه جي\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\DataBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\العبه جي\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Dto\\OurProject.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Dto\\OurProject.Dto.csproj",
+        "projectName": "OurProject.Dto",
+        "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Dto\\OurProject.Dto.csproj",
+        "packagesPath": "C:\\Users\\العبه جي\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\العبه جي\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.IRepo\\OurProject.IRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.IRepo\\OurProject.IRepo.csproj",
+        "projectName": "OurProject.IRepo",
+        "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.IRepo\\OurProject.IRepo.csproj",
+        "packagesPath": "C:\\Users\\العبه جي\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.IRepo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\العبه جي\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Dto\\OurProject.Dto.csproj": {
+                "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Dto\\OurProject.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Repo\\OurProject.Repo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Repo\\OurProject.Repo.csproj",
+        "projectName": "OurProject.Repo",
+        "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Repo\\OurProject.Repo.csproj",
+        "packagesPath": "C:\\Users\\العبه جي\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Repo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\العبه جي\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\DataBase\\DataBase.csproj": {
+                "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\DataBase\\DataBase.csproj"
+              },
+              "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.IRepo\\OurProject.IRepo.csproj": {
+                "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.IRepo\\OurProject.IRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Collection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject\\OurProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject\\OurProject.csproj",
+        "projectName": "OurProject",
+        "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject\\OurProject.csproj",
+        "packagesPath": "C:\\Users\\العبه جي\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\العبه جي\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Dto\\OurProject.Dto.csproj": {
+                "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Dto\\OurProject.Dto.csproj"
+              },
+              "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Repo\\OurProject.Repo.csproj": {
+                "projectPath": "C:\\Users\\العبه جي\\Desktop\\projects\\MyFirstProject\\OurProject.Repo\\OurProject.Repo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Collection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

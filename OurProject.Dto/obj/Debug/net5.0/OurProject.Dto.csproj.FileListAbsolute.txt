@@ -1,0 +1,36 @@
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\bin\Debug\net5.0\ref\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\obj\Debug\net5.0\ref\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\bin\Debug\net5.0\ref\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\ref\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.deps.json
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\bin\Debug\net5.0\ref\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\ref\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Dto\obj\Debug\net5.0\OurProject.Dto.pdb

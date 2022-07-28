@@ -1,0 +1,45 @@
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\bin\Debug\net5.0\ref\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\ref\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\ref\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\ref\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.deps.json
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\ref\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\ref\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.IRepo\obj\Debug\net5.0\OurProject.IRepo.pdb

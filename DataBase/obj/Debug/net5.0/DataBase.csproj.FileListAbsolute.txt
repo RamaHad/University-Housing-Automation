@@ -1,0 +1,45 @@
+C:\Users\العبه جي\source\repos\OurProject\DataBase\bin\Debug\net5.0\DataBase.deps.json
+C:\Users\العبه جي\source\repos\OurProject\DataBase\bin\Debug\net5.0\DataBase.runtimeconfig.json
+C:\Users\العبه جي\source\repos\OurProject\DataBase\bin\Debug\net5.0\DataBase.runtimeconfig.dev.json
+C:\Users\العبه جي\source\repos\OurProject\DataBase\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\source\repos\OurProject\DataBase\bin\Debug\net5.0\ref\DataBase.dll
+C:\Users\العبه جي\source\repos\OurProject\DataBase\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\DataBase.AssemblyInfo.cs
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\ref\DataBase.dll
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\source\repos\OurProject\DataBase\obj\Debug\net5.0\DataBase.genruntimeconfig.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\bin\Debug\net5.0\DataBase.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\bin\Debug\net5.0\DataBase.runtimeconfig.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\bin\Debug\net5.0\DataBase.runtimeconfig.dev.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\bin\Debug\net5.0\ref\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\DataBase.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\ref\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\DataBase\obj\Debug\net5.0\DataBase.genruntimeconfig.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\bin\Debug\net5.0\DataBase.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\bin\Debug\net5.0\DataBase.runtimeconfig.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\bin\Debug\net5.0\DataBase.runtimeconfig.dev.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\bin\Debug\net5.0\ref\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\DataBase.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\DataBase.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\DataBase.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\ref\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\DataBase\obj\Debug\net5.0\DataBase.genruntimeconfig.cache

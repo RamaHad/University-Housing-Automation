@@ -1,0 +1,57 @@
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\ref\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\ref\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\ref\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\ref\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.deps.json
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\ref\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\ref\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject.Repo\obj\Debug\net5.0\OurProject.Repo.pdb

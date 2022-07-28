@@ -1,0 +1,53 @@
+﻿
+<head>
+    <link rel="stylesheet" href="~/css/HomeStyle.css">
+</head>
+
+<body dir="rtl">
+
+    <!-- ======= Hero Section ======= -->
+    <section class="hero">
+        <div class="hero-container ">
+            <div>
+                <h1> الجمهورية العربية السورية<br> وزارة التعليم العالي</h1>
+                <h2>موقع المدينة الجامعية حلب</h2>
+                <a href="#user" class="btn-login">تسجيل الدخول كمستخدم </a>
+                <a href="#student" class="btn-student">دخول كطالب</a>
+            </div>
+    </section>
+    <!-- ======= End Hero Section ======= -->
+    <!-- ======= User Section ======= -->
+    <section class="user" id="user">
+
+        <div>
+            <h3 class="section-titel">تسجيل الدخول</h3>
+        </div>
+
+        <div class="form-parent">
+            <img style=" height: 150px; width: 150px; margin:auto" src="~/img/login.png"/>
+            <form>
+                <div class="div-in-form">
+                    <label> اسم المستخدم</label>
+                    <br />
+                    <input type="text" id="UserName" placeholder="ادخل اسمك" required>
+
+                </div>
+
+                <div class="div-in-form">
+                    <label> كلمة السر</label>
+                    <br />
+                    <input type="text" class="form-control" id="Password" placeholder="ادخل كلمة السر" required>
+                </div>
+
+
+                <button type="submit">دخول</button>
+                <a asp-action="Register" asp-controller="Account" class="btn btn-primary"> مستخدم جديد</a>
+            </form>
+        </div>
+
+
+
+    </section>
+</body>
+
+

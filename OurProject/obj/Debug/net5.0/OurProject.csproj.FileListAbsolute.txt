@@ -1,0 +1,417 @@
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\appsettings.json
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\OurProject.exe
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\OurProject.deps.json
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.json
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.dev.json
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\OurProject.Views.dll
+C:\Users\العبه جي\source\repos\OurProject\OurProject\bin\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.csproj.AssemblyReference.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfoInputs.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfo.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.Manifest.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.xml
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\scopedcss\bundle\OurProject.styles.css
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.input.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.output.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.RazorCoreGenerate.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cs
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.genruntimeconfig.cache
+C:\Users\العبه جي\source\repos\OurProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\appsettings.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.exe
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.dev.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.Views.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\AutoMapper.Collection.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.Manifest.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.xml
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\scopedcss\bundle\OurProject.styles.css
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.input.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.output.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.RazorCoreGenerate.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\OurProject.genruntimeconfig.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\AllRole.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\OuerProject\OurProject\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\appsettings.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.exe
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.deps.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.dev.json
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Views.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.Collection.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.Manifest.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.xml
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\scopedcss\bundle\OurProject.styles.css
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.input.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.output.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorCoreGenerate.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\AllRole.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.genruntimeconfig.cache
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\FindRoleById.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectTheFirstRole.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectFirstRoleByName.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectAllRoleName.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\User\GetAllUser.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\العبه جي\Desktop\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\appsettings.json
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.exe
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.deps.json
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.json
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.dev.json
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Views.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.Collection.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.Manifest.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.xml
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\scopedcss\bundle\OurProject.styles.css
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.input.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.output.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorCoreGenerate.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\WelcomeView.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\AllRole.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\FindRoleById.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectAllRoleName.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectFirstRoleByName.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectTheFirstRole.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\User\GetAllUser.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cs
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\Desktop\ASPNETMVC\ASP.NET COR PROJECT\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.genruntimeconfig.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\appsettings.json
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.exe
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.deps.json
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.json
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.runtimeconfig.dev.json
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Views.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.Collection.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\DataBase.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Dto.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.IRepo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Repo.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Dto.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.Repo.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\DataBase.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\bin\Debug\net5.0\OurProject.IRepo.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.AssemblyReference.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfoInputs.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.AssemblyInfo.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CoreCompileInputs.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorAssemblyInfo.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.Manifest.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\staticwebassets\OurProject.StaticWebAssets.xml
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\scopedcss\bundle\OurProject.styles.css
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.input.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.TagHelpers.output.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorCoreGenerate.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Home\WelcomeView.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\AllRole.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\FindRoleById.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectAllRoleName.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectFirstRoleByName.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Role\SelectTheFirstRole.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\User\GetAllUser.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cache
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.RazorTargetAssemblyInfo.cs
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.Views.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.csproj.CopyComplete
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\ref\OurProject.dll
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.pdb
+C:\Users\العبه جي\Desktop\projects\MyFirstProject\OurProject\obj\Debug\net5.0\OurProject.genruntimeconfig.cache
